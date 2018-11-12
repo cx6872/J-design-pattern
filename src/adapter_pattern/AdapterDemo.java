@@ -59,3 +59,4 @@ public class AdapterDemo {
         象类便是适配器类。
 
  */
+/*test add*/
